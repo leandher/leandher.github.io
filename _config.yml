@@ -8,11 +8,11 @@ language: '' # language to set into html tag, default is en
 
 author: Leandher Bessa
 author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
+gravatar: 27a9124b1a6f1232da7521ee6646c0b9
 email: leandhersantos@gmail.com
 twitter: LeandherSantos
 github: leandher
-googleplus: +leandhersantos
+# googleplus: +leandhersantos
 facebook: leandher.bessa
 linkedin: leandher-bessa-65303b128/?locale=en_US
 bio: "Brazilian developer. Game, music and technology lover.
@@ -45,7 +45,7 @@ front-end:
   - name: React.js
     level: 4
   - name: Redux
-    level: 4
+    level: 3
   - name: Immutable
     level: 3
   - name: Rxjs
@@ -57,7 +57,7 @@ front-end:
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
-    level: 4
+    level: 3
   - name: LESS
     level: 3
   - name: SASS
